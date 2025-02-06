@@ -14,11 +14,19 @@ This game brings the classic Pac-Man experience to life with smooth controls and
 - **Modular Architecture** with separate classes for `Block`, `GameMap`, etc.
 - **Smooth Player Controls** using arrow keys.
 - **Multiple Pages**:
+
   - Welcome Page
   - Game Page (Main Pac-Man Game)
   - Game Over Page
   - Settings Page (WIP)
   - Profile Page (WIP)
+
+  ## ✨ Play Game On Windows 🎉
+
+  **Download .exe file from the official GitHub Repository**
+
+  - ✅ [**Release Note**](https://github.com/sahedulislamrony/pacman/releases)
+  - ✅ [**Direct Download Link**](https://github.com/sahedulislamrony/pacman/releases/download/v1.0.0.1/Pacman.exe)
 
 ## ⚙️ Game Controls
 
