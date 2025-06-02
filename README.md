@@ -37,13 +37,6 @@ This game brings the classic Pac-Man experience to life with smooth controls and
 | ⬅️  | Move Left  |
 | ➡️  | Move Right |
 
-## 🔮 Upcoming Features
-
-- **Optimized Routing System** for better state management.
-- **Profile System** to save and display player information.
-- **Sound System** to enhance gameplay experience.
-- **Settings Page** for customizing game preferences.
-- **Unique Ghost Movement AI** to make the game more challenging.
 
 ## 🧠 What I Have Learned
 
